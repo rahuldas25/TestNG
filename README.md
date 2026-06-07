@@ -52,6 +52,10 @@ xml file---->class---->test methods
 1. Execute gorup of test cases as a 1 suites.
 2. We can genarate testing reports (default)
 
+# <img width="1776" height="995" alt="image" src="https://github.com/user-attachments/assets/361e4a89-cc26-460e-aa94-b7230ebee2ec" />
+
+
+
 
 
 
